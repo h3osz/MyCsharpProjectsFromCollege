@@ -1,0 +1,20 @@
+C:\Users\Москаев АС\source\repos\ПроектПерсонаж\ПроектПерсонаж\bin\Debug\ПроектПерсонаж.exe.config
+C:\Users\Москаев АС\source\repos\ПроектПерсонаж\ПроектПерсонаж\bin\Debug\ПроектПерсонаж.exe
+C:\Users\Москаев АС\source\repos\ПроектПерсонаж\ПроектПерсонаж\bin\Debug\ПроектПерсонаж.pdb
+C:\Users\Москаев АС\source\repos\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.csprojAssemblyReference.cache
+C:\Users\Москаев АС\source\repos\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.MainForm.resources
+C:\Users\Москаев АС\source\repos\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.Properties.Resources.resources
+C:\Users\Москаев АС\source\repos\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.csproj.GenerateResource.cache
+C:\Users\Москаев АС\source\repos\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.csproj.CoreCompileInputs.cache
+C:\Users\Москаев АС\source\repos\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.exe
+C:\Users\Москаев АС\source\repos\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.pdb
+C:\Users\heos\Desktop\ПроектПерсонаж\ПроектПерсонаж\bin\Debug\ПроектПерсонаж.exe.config
+C:\Users\heos\Desktop\ПроектПерсонаж\ПроектПерсонаж\bin\Debug\ПроектПерсонаж.exe
+C:\Users\heos\Desktop\ПроектПерсонаж\ПроектПерсонаж\bin\Debug\ПроектПерсонаж.pdb
+C:\Users\heos\Desktop\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.csprojAssemblyReference.cache
+C:\Users\heos\Desktop\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.MainForm.resources
+C:\Users\heos\Desktop\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.Properties.Resources.resources
+C:\Users\heos\Desktop\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.csproj.GenerateResource.cache
+C:\Users\heos\Desktop\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.csproj.CoreCompileInputs.cache
+C:\Users\heos\Desktop\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.exe
+C:\Users\heos\Desktop\ПроектПерсонаж\ПроектПерсонаж\obj\Debug\ПроектПерсонаж.pdb

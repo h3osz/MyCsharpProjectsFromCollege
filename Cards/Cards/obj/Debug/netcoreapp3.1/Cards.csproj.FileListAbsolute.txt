@@ -1,0 +1,15 @@
+C:\Users\heos\Desktop\картс\Cards\Cards\bin\Debug\netcoreapp3.1\Cards.exe
+C:\Users\heos\Desktop\картс\Cards\Cards\bin\Debug\netcoreapp3.1\Cards.deps.json
+C:\Users\heos\Desktop\картс\Cards\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.json
+C:\Users\heos\Desktop\картс\Cards\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.dev.json
+C:\Users\heos\Desktop\картс\Cards\Cards\bin\Debug\netcoreapp3.1\Cards.dll
+C:\Users\heos\Desktop\картс\Cards\Cards\bin\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\heos\Desktop\картс\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.csprojAssemblyReference.cache
+C:\Users\heos\Desktop\картс\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.Form1.resources
+C:\Users\heos\Desktop\картс\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.GenerateResource.cache
+C:\Users\heos\Desktop\картс\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfoInputs.cache
+C:\Users\heos\Desktop\картс\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfo.cs
+C:\Users\heos\Desktop\картс\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.CoreCompileInputs.cache
+C:\Users\heos\Desktop\картс\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.dll
+C:\Users\heos\Desktop\картс\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\heos\Desktop\картс\Cards\Cards\obj\Debug\netcoreapp3.1\Cards.genruntimeconfig.cache
